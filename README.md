@@ -1,4 +1,4 @@
-# Student Management System (CRUD)
+# Student Registration System MERN
 
 A simple web application to **Create**, **Read**, **Update**, and **Delete** (CRUD) student records using **ReactJS (Frontend)** and **Node.js + Express + MongoDB (Backend)**.
 
